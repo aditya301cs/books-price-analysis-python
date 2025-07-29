@@ -22,7 +22,7 @@ We scrape data from [BooksToScrape.com](https://books.toscrape.com), a mock webs
 
 - Scrapes 1000 books across 50 pages
 - Handles dynamic conversion of currencies using API
-- Filters books under ₹500
+- Filters books under ₹5000
 - Plots rating distributions, availability ratios, and price trends
 - Top 10 most expensive & cheapest books
 - Correlation heatmap between numeric fields
